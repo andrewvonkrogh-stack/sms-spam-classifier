@@ -1,0 +1,16 @@
+# macOS files
+.DS_Store
+
+# Local editor settings
+.vscode/
+
+# Python environments and temporary files
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter autosaves
+.ipynb_checkpoints/
+
+# Downloaded dataset — see README for download instructions
+data/
